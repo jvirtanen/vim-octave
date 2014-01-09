@@ -16,10 +16,6 @@ Install with [pathogen.vim][]:
     cd ~/.vim/bundle
     git clone git://github.com/jvirtanen/vim-octave.git
 
-Add the following to your `~/.vimrc`:
-
-    autocmd BufRead,BufNewFile *.m set filetype=octave
-
   [pathogen.vim]: https://github.com/tpope/vim-pathogen
 
 
