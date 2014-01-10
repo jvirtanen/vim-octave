@@ -11,7 +11,7 @@ This is a mirror of [octave.vim][] providing syntax highlighting for
 Installation
 ------------
 
-Install with [pathogen.vim][]:
+Install using [pathogen.vim][]:
 
     cd ~/.vim/bundle
     git clone git://github.com/jvirtanen/vim-octave.git
