@@ -593,7 +593,7 @@ syn match octaveFloat   "\.\d\+\([edED][-+]\?\d\+\)\?[ij]\?\>"
 
 " Delimiters and transpose character
 syn match octaveDelimiter          "[][(){}@]"
-syn match octaveTransposeOperator  "[])[:alnum:]._]\@<='"
+syn match octaveTransposeOperator  "[])}[:alnum:]._]\@<='"
 
 " Tabs, for possibly highlighting as errors
 syn match octaveTab  "\t"
