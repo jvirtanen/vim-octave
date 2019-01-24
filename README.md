@@ -8,13 +8,12 @@ This is a mirror of [octave.vim][] providing syntax highlighting for
 
 ## Installation
 
-Install using [pathogen.vim][]:
+Install using Vim's built-in package support:
 ```
-cd ~/.vim/bundle
+mkdir -p ~/.vim/pack/jvirtanen/start
+cd ~/.vim/pack/jvirtanen/start
 git clone git://github.com/jvirtanen/vim-octave.git
 ```
-
-  [pathogen.vim]: https://github.com/tpope/vim-pathogen
 
 ## License
 
