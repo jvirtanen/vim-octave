@@ -12,7 +12,7 @@ Install using Vim's built-in package support:
 ```
 mkdir -p ~/.vim/pack/jvirtanen/start
 cd ~/.vim/pack/jvirtanen/start
-git clone git://github.com/jvirtanen/vim-octave.git
+git clone https://github.com/jvirtanen/vim-octave.git
 ```
 
 ## License
