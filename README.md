@@ -15,6 +15,11 @@ cd ~/.vim/pack/jvirtanen/start
 git clone https://github.com/jvirtanen/vim-octave.git
 ```
 
+### Using [`vim-plug`](https://github.com/junegunn/vim-plug)
+```
+Plug 'jvirtanen/vim-octave'
+```
+
 ## License
 
 octave.vim is distributed under the same terms as GNU Octave itself.
